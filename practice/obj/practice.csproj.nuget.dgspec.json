@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITPRACTICE\\practice\\practice.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\New folder\\practice_with_nav_kash\\practice\\practice.csproj": {}
   },
   "projects": {
-    "D:\\GITPRACTICE\\practice\\practice.csproj": {
+    "C:\\Users\\Hp\\Desktop\\New folder\\practice_with_nav_kash\\practice\\practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITPRACTICE\\practice\\practice.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\New folder\\practice_with_nav_kash\\practice\\practice.csproj",
         "projectName": "practice",
-        "projectPath": "D:\\GITPRACTICE\\practice\\practice.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\New folder\\practice_with_nav_kash\\practice\\practice.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\GITPRACTICE\\practice\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\New folder\\practice_with_nav_kash\\practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
