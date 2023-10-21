@@ -12,5 +12,12 @@ namespace practice
         int nvm;
         int gfg;
 
+      public oni (String name, int nvm, int gfg)
+        {
+            this.name = name;
+            this.nvm = nvm;
+            this.gfg = gfg;
+        }
+
     }
 }
