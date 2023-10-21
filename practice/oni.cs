@@ -9,7 +9,7 @@ namespace practice
     internal class oni
     {
         String name;
-        int oni;
+        int nvm;
         int gfg;
 
     }
